@@ -2,7 +2,9 @@
 Repository for our NLP HW4 Assignment
 
 Pardis Zahraei
+
 Mohammad Mahdi Gheidi
+
 Mahdi SaadatBakht
 
 In this assignment we have trained/fine-tuned various models(with architectures such as LSTMs, transformers, etc.) to deal with different tasks on a news dataset.
